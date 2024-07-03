@@ -28,10 +28,10 @@ We provide download links for four classification datasets:
 
 | Dataset | Label | Link |
 |:-|-:|:-:|
-| AID_Multilable | Multi | [Download](https://drive.google.com/drive/folders/1he18p2yNI6IjW_cuT2lRs545pQAG7usZ) |
-| UCM_Multilable | Multi | [Download](https://bigearth.eu/datasets) |
-| AID | Single | [Download](https://opendatalab.com/OpenDataLab/AID) |
-| NWPU-RESISC45 | Single | [Download](https://link.zhihu.com/?target=https%3A//gcheng-nwpu.github.io/%23Datasets) |
+| AID_Multilable |  Multi-label  | [Download](https://drive.google.com/drive/folders/1he18p2yNI6IjW_cuT2lRs545pQAG7usZ) |
+| UCM_Multilable |  Multi-label  | [Download](https://bigearth.eu/datasets) |
+| AID |  Single-label  | [Download](https://opendatalab.com/OpenDataLab/AID) |
+| NWPU-RESISC45 |  Single-label  | [Download](https://gcheng-nwpu.github.io/#Datasets) |
 
 
 ## Visualization
