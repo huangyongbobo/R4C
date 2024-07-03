@@ -17,8 +17,8 @@
 
 
 ## Introduction
-This is the official repository of the paper Learning to Rank for Single- and Multilabel  Aerial Image Classification.
-
+This is the official repository of the paper entitled ***"Learning to Rank for Single- and Multilabel  Aerial Image Classification",***
+which provides a PyTorch implementation of R4C. 
 
 ## Usage
 
