@@ -22,6 +22,14 @@ which provides a PyTorch implementation of R4C.
 
 ## Usage
 
+### Preparation 
+
+```bash
+git clone https://github.com/huangyongbobo/R4C.git
+cd R4C
+pip install -r requirements.txt
+```
+
 ## Dataset
 
 We provide download links for four classification datasets:
