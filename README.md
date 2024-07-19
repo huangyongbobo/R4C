@@ -40,14 +40,9 @@ Arguments:
 - ``--label_num``: The number of labels in dataset.
 - ``--model``: The backbone for training.
 
-For example:
-```bash
-python Train.py --dataset 'AID_Multilabel' --label_num 17 --model Resnet-50
-```
-
 ## Dataset
 
-We provide download links for four classification datasets:
+We provide download links for four classification datasets.
 
 | Dataset | Label | Link |
 |:-|-:|:-:|
@@ -59,9 +54,9 @@ We provide download links for four classification datasets:
 
 ## Visualization
 ### predicted results
-Some images and their top 7 predicted probability values. On the left of each image is (are) its positive label(s); besides, false positives and false negatives are highlighted in blue and red, respectively
+The following is a depiction of select images alongside their corresponding top 7 predicted probability scores. On the left of each image is (are) its positive label(s); furthermore, false positives and false negatives are highlighted in blue and red, respectively.
 
 ### Grad-CAM
-Grad-CAM visualization of heat maps on multilable dataset. R4C locates the crucial regions more correctly.
+We provide the Grad-CAM visualization of heat maps on multi-lable dataset. R4C locates the crucial regions more correctly.
 
 ## Citation
