@@ -15,6 +15,7 @@
   <a href="#citation">Citation</a>
 </p>
 
+![](https://github.com/huangyongbobo/R4C/blob/main/image/rankLabels.png)
 
 ## Introduction
 This is the official repository of the paper entitled ***"Learning to Rank for Multilabel Aerial Image Classification",***
@@ -56,7 +57,11 @@ We provide download links for four classification datasets.
 ### predicted results
 The following is a depiction of select images alongside their corresponding top 7 predicted probability scores. On the left of each image is (are) its positive label(s); furthermore, false positives and false negatives are highlighted in blue and red, respectively.
 
+![](https://github.com/huangyongbobo/R4C/blob/main/image/predicted%20result.png)
+
 ### Grad-CAM
 We provide the Grad-CAM visualization of heat maps on multi-lable dataset. R4C locates the crucial regions more correctly.
+
+![](https://github.com/huangyongbobo/R4C/blob/main/image/GradCAM2.png)
 
 ## Citation
