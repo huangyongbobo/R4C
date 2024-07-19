@@ -16,11 +16,9 @@
 </p>
 
 ## Introduction
-This is the official repository of the paper entitled ***"Learning to Rank for Multilabel Aerial Image Classification",*** which provides a PyTorch implementation of R4C. 
+This is the official repository of the paper entitled ***"Learning to Rank for Multilabel Aerial Image Classification",*** which provides a PyTorch implementation of R4C. The following is the illustration of L2R-label in paper.
 
 ![](https://github.com/huangyongbobo/R4C/blob/main/image/rankLabels.png)
-
-*The above is the illustration of L2R-label in paper.*
 
 
 ## Usage
