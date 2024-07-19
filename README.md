@@ -31,18 +31,18 @@ pip install -r requirements.txt
 ```
 
 ### Running
-
+You can run ``Train.py`` files on the terminal to train the model. For example:
 ```bash
-python 
+python Train.py --dataset 'AID_Multilabel' --label_num 17 --model Resnet-50
 ```
 Arguments:
-- ``--img-path``: 
-- ``--pred-only`` 
-- ``--grayscale``
+- ``--dataset``: Training dataset for R4C.
+- ``--label_num``: The number of labels in dataset.
+- ``--model``: The backbone for training.
 
 For example:
 ```bash
-python 
+python Train.py --dataset 'AID_Multilabel' --label_num 17 --model Resnet-50
 ```
 
 ## Dataset
