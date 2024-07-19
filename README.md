@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Learning to Rank for Single- and Multilabel  Aerial Image Classification</h1>
+<h1>Learning to Rank for Multilabel Aerial Image Classification</h1>
 
 <h5 align="center"><em> Yongbo Huang, Haoran Huang, Ruiru Zhong, Yuanpei Jin, and <a href="http://staff.scnu.edu.cn/yishuliu">Yishu Liu</a>.<sup>*</sup></em></h5>
 &emsp;*corresponding author
