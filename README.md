@@ -1,8 +1,8 @@
 <div align="center">
 <h1>Learning to Rank for Single- and Multilabel  Aerial Image Classification</h1>
 
-<h5 align="center"><em> Yongbo Huang<sup>&dagger;</sup>, Haoran Huang, Ruiru Zhong, Yuanpei Jin, and <a href="http://staff.scnu.edu.cn/yishuliu">Yishu Liu</a>.<sup>*</sup></em></h5>
-&dagger;Lead author&emsp;*corresponding author
+<h5 align="center"><em> Yongbo Huang, Haoran Huang, Ruiru Zhong, Yuanpei Jin, and <a href="http://staff.scnu.edu.cn/yishuliu">Yishu Liu</a>.<sup>*</sup></em></h5>
+&emsp;*corresponding author
 <h6 </h6>
 </div>
 
@@ -17,7 +17,7 @@
 
 
 ## Introduction
-This is the official repository of the paper entitled ***"Learning to Rank for Single- and Multilabel  Aerial Image Classification",***
+This is the official repository of the paper entitled ***"Learning to Rank for Multilabel Aerial Image Classification",***
 which provides a PyTorch implementation of R4C. 
 
 ## Usage
@@ -43,4 +43,10 @@ We provide download links for four classification datasets:
 
 
 ## Visualization
+### predicted results
+Some images and their top 7 predicted probability values. On the left of each image is (are) its positive label(s); besides, false positives and false negatives are highlighted in blue and red, respectively
+
+### Grad-CAM
+Grad-CAM visualization of heat maps on multilable dataset. R4C locates the crucial regions more correctly.
+
 ## Citation
