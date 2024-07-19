@@ -30,6 +30,21 @@ cd R4C
 pip install -r requirements.txt
 ```
 
+### Running
+
+```bash
+python 
+```
+Arguments:
+- ``--img-path``: 
+- ``--pred-only`` 
+- ``--grayscale``
+
+For example:
+```bash
+python 
+```
+
 ## Dataset
 
 We provide download links for four classification datasets:
