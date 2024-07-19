@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 ### Running
-You can run ``Train.py`` files on the terminal to train the model. For example:
+You can run ``Train.py`` on the terminal to train the model. For example:
 ```bash
 python Train.py --dataset 'AID_Multilabel' --label_num 17 --model Resnet-50
 ```
@@ -55,7 +55,7 @@ We provide download links for four classification datasets.
 
 ## Visualization
 ### predicted results
-The following is a depiction of select images alongside their corresponding top 7 predicted probability scores. On the left of each image is (are) its positive label(s); furthermore, false positives and false negatives are highlighted in blue and red, respectively.
+The following is a depiction of select images alongside their corresponding top 7 predicted probability scores. On the left of each image are its positive labels; furthermore, false positives and false negatives are highlighted in blue and red, respectively.
 
 ![](https://github.com/huangyongbobo/R4C/blob/main/image/predicted%20result.png)
 
